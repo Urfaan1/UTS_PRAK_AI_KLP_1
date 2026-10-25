@@ -1,0 +1,92 @@
+[
+  {
+    "id": "G01",
+    "group": "Pendinginan",
+    "question": "AC terasa kurang dingin saat beroperasi?"
+  },
+  {
+    "id": "G02",
+    "group": "Pendinginan",
+    "question": "Hembusan udara indoor lemah meskipun kecepatan kipas sudah dinaikkan?"
+  },
+  {
+    "id": "G03",
+    "group": "Pendinginan",
+    "question": "Filter udara terlihat berdebu atau kotor?"
+  },
+  {
+    "id": "G04",
+    "group": "Pendinginan",
+    "question": "Mode AC sedang FAN atau HEAT, bukan COOL?"
+  },
+  {
+    "id": "G05",
+    "group": "Pendinginan",
+    "question": "Suhu yang disetel sama dengan atau lebih tinggi dari suhu ruangan?"
+  },
+  {
+    "id": "G06",
+    "group": "Pendinginan",
+    "question": "Ada benda yang menghalangi jalur udara unit outdoor?"
+  },
+  {
+    "id": "G07",
+    "group": "Kebocoran",
+    "question": "Air menetes atau mengalir dari indoor ke dalam ruangan?"
+  },
+  {
+    "id": "G08",
+    "group": "Kebocoran",
+    "question": "Bagian selang pembuangan yang terlihat tertekuk atau tidak menurun?"
+  },
+  {
+    "id": "G09",
+    "group": "Kebocoran",
+    "question": "Ujung selang pembuangan terendam air di wadah penampung?"
+  },
+  {
+    "id": "G10",
+    "group": "Kebocoran",
+    "question": "Bagian selang pembuangan yang terlihat tersumbat kotoran?"
+  },
+  {
+    "id": "G11",
+    "group": "Remote",
+    "question": "AC tidak merespons perintah remote?"
+  },
+  {
+    "id": "G12",
+    "group": "Remote",
+    "question": "Layar remote redup atau tidak menyala saat tombol ditekan?"
+  },
+  {
+    "id": "G13",
+    "group": "Remote",
+    "question": "Layar remote tetap tidak normal setelah baterai baru dipasang dengan benar?"
+  },
+  {
+    "id": "G14",
+    "group": "Bau dan kondisi abnormal",
+    "question": "AC mengeluarkan bau tidak sedap selain bau terbakar?"
+  },
+  {
+    "id": "G15",
+    "group": "Bau dan kondisi abnormal",
+    "question": "Terdapat sumber bau di ruangan seperti asap, makanan, atau bau hewan?"
+  },
+  {
+    "id": "G16",
+    "group": "Bau dan kondisi abnormal",
+    "question": "Tercium bau terbakar dari AC?"
+  },
+  {
+    "id": "G17",
+    "group": "Bau dan kondisi abnormal",
+    "question": "MCB AC berulang kali terputus saat AC digunakan?"
+  },
+  {
+    "id": "G18",
+    "group": "Bau dan kondisi abnormal",
+    "question": "Indikator gangguan tetap berkedip atau kode error tetap muncul?"
+  }
+]

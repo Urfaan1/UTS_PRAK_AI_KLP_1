@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "id": "R01",
+      "if": [
+        "G02",
+        "G03"
+      ],
+      "then": "I01",
+      "cf": 0.9,
+      "source_ids": [
+        "S01"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R02",
+      "if": [
+        "I01"
+      ],
+      "then": "K01",
+      "cf": 0.9,
+      "source_ids": [
+        "S01"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R03",
+      "if": [
+        "G01",
+        "G04"
+      ],
+      "then": "K02",
+      "cf": 0.9,
+      "source_ids": [
+        "S02"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R04",
+      "if": [
+        "G05"
+      ],
+      "then": "K02",
+      "cf": 0.75,
+      "source_ids": [
+        "S02"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R05",
+      "if": [
+        "G01",
+        "G06"
+      ],
+      "then": "K03",
+      "cf": 0.85,
+      "source_ids": [
+        "S03"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R06",
+      "if": [
+        "G07",
+        "G08"
+      ],
+      "then": "K04",
+      "cf": 0.9,
+      "source_ids": [
+        "S04"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R07",
+      "if": [
+        "G07",
+        "G09"
+      ],
+      "then": "K04",
+      "cf": 0.9,
+      "source_ids": [
+        "S04"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R08",
+      "if": [
+        "G07",
+        "G10"
+      ],
+      "then": "K04",
+      "cf": 0.9,
+      "source_ids": [
+        "S04"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R09",
+      "if": [
+        "G11",
+        "G12"
+      ],
+      "then": "K05",
+      "cf": 0.8,
+      "source_ids": [
+        "S03"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R10",
+      "if": [
+        "G13"
+      ],
+      "then": "K06",
+      "cf": 0.9,
+      "source_ids": [
+        "S03"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R11",
+      "if": [
+        "G14",
+        "G15"
+      ],
+      "then": "K07",
+      "cf": 0.75,
+      "source_ids": [
+        "S02"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R12",
+      "if": [
+        "G16"
+      ],
+      "then": "K08",
+      "cf": 0.95,
+      "source_ids": [
+        "S05"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R13",
+      "if": [
+        "G17"
+      ],
+      "then": "K08",
+      "cf": 0.95,
+      "source_ids": [
+        "S05"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R14",
+      "if": [
+        "G18"
+      ],
+      "then": "K08",
+      "cf": 0.85,
+      "source_ids": [
+        "S02"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    },
+    {
+      "id": "R15",
+      "if": [
+        "G01",
+        "G03"
+      ],
+      "then": "K01",
+      "cf": 0.75,
+      "source_ids": [
+        "S01",
+        "S02"
+      ],
+      "cf_basis": "developer_assigned",
+      "validation_status": "literature_based_prototype"
+    }
+  ]
+}
