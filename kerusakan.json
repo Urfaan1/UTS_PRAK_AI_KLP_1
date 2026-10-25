@@ -1,0 +1,98 @@
+{
+  "diagnoses": [
+    {
+      "id": "K01",
+      "name": "Filter kotor berkontribusi pada gangguan aliran udara",
+      "description": "Kemungkinan masalah berdasarkan pengamatan pengguna; pemeriksaan langsung diperlukan jika keluhan berlanjut.",
+      "recommendations": [
+        "Matikan AC sebelum perawatan. Bersihkan filter sesuai manual model, keringkan, dan pasang kembali. Jika aliran tetap lemah, hubungi teknisi."
+      ]
+    },
+    {
+      "id": "K02",
+      "name": "Pengaturan pendinginan belum sesuai",
+      "description": "Kemungkinan masalah berdasarkan pengamatan pengguna; pemeriksaan langsung diperlukan jika keluhan berlanjut.",
+      "recommendations": [
+        "Pilih mode COOL dan setel suhu di bawah suhu ruangan. Evaluasi kembali setelah pengaturan sesuai."
+      ]
+    },
+    {
+      "id": "K03",
+      "name": "Aliran udara outdoor terhalang",
+      "description": "Kemungkinan masalah berdasarkan pengamatan pengguna; pemeriksaan langsung diperlukan jika keluhan berlanjut.",
+      "recommendations": [
+        "Singkirkan benda penghalang yang aman dijangkau tanpa membuka unit. Jika keluhan berlanjut, hubungi teknisi."
+      ]
+    },
+    {
+      "id": "K04",
+      "name": "Gangguan aliran pembuangan air",
+      "description": "Kemungkinan masalah berdasarkan pengamatan pengguna; pemeriksaan langsung diperlukan jika keluhan berlanjut.",
+      "recommendations": [
+        "Hentikan penggunaan saat air bocor ke dalam ruangan. Periksa bagian selang yang terlihat; teknisi menangani penyumbatan atau posisi yang tidak aman dijangkau."
+      ]
+    },
+    {
+      "id": "K05",
+      "name": "Baterai remote kemungkinan lemah atau habis",
+      "description": "Kemungkinan masalah berdasarkan pengamatan pengguna; pemeriksaan langsung diperlukan jika keluhan berlanjut.",
+      "recommendations": [
+        "Ganti baterai sesuai tipe dan polaritas remote, lalu uji kembali."
+      ]
+    },
+    {
+      "id": "K06",
+      "name": "Remote memerlukan pemeriksaan lebih lanjut",
+      "description": "Kemungkinan masalah berdasarkan pengamatan pengguna; pemeriksaan langsung diperlukan jika keluhan berlanjut.",
+      "recommendations": [
+        "Periksakan remote atau gunakan pengganti yang kompatibel karena masalah tetap muncul setelah baterai diganti."
+      ]
+    },
+    {
+      "id": "K07",
+      "name": "Bau ruangan kemungkinan terserap dan dikeluarkan kembali",
+      "description": "Kemungkinan masalah berdasarkan pengamatan pengguna; pemeriksaan langsung diperlukan jika keluhan berlanjut.",
+      "recommendations": [
+        "Hilangkan sumber bau, lakukan ventilasi ruangan, dan rawat filter sesuai manual. Jika bau menetap, hubungi teknisi."
+      ]
+    },
+    {
+      "id": "K08",
+      "name": "Kondisi abnormal memerlukan pemeriksaan teknisi",
+      "description": "Kemungkinan masalah berdasarkan pengamatan pengguna; pemeriksaan langsung diperlukan jika keluhan berlanjut.",
+      "recommendations": [
+        "Hentikan operasi dan hubungi teknisi. Jika ada bau terbakar atau MCB berulang terputus, jangan terus mencoba menyalakan AC. Sampaikan kode error yang terlihat."
+      ]
+    }
+  ],
+  "intermediates": {
+    "I01": "Indikasi pembatasan aliran udara oleh filter kotor"
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "name": "Daikin — Maintenance Tips",
+      "url": "https://www.daikin.com/products/ac/services/maintenance_tips"
+    },
+    {
+      "id": "S02",
+      "name": "Daikin — Troubleshooting",
+      "url": "https://www.daikin.com/products/ac/services/troubleshooting"
+    },
+    {
+      "id": "S03",
+      "name": "LG — Pre-Summer Check",
+      "url": "https://www.lg.com/us/support/help-library/lg-air-conditioner-perform-a-presummer-check-to-stay-cool--20155060932775"
+    },
+    {
+      "id": "S04",
+      "name": "LG — Water Dripping",
+      "url": "https://www.lg.com/my/support/product-support/troubleshoot/help-library/cs-CT52009241-20155363600579/"
+    },
+    {
+      "id": "S05",
+      "name": "Daikin — Troubleshooting Manual",
+      "url": "https://backend.daikincomfort.com/docs/default-source/product-documents/commercial/manual/operation-manuals/om-rweq_ta-%284p540121-1%29.pdf?sfvrsn=504a2526_5"
+    }
+  ]
+}
